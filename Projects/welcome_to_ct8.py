@@ -23,8 +23,9 @@ print(r" \_____\____/|_|  |_|_|         |_|  |_|  |_|_____|_| \_|_|\_\_____|_| \
 
 print(f"This codespace belongs to {name}")
 print("\n\n")
-                                                                                          
+(f"This codespace belongs to {avery}")
+
                                                                                           
                                   
-print("Now it's your turn:")
-print("Find this line (line 30) in the welcome_to_ct8.py file, then change the message to say a fact about you.")                                  
+print()"Now it's your turn:"
+"I play basketball:"

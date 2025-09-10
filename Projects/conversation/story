@@ -1,0 +1,9 @@
+name= input ("Hello what is your name? ")
+print(f" hi {name} Welcome to the lakers tryouts")
+print ("")
+player= input ("pick aplayer to pratice with avery:")
+drill = input ("chose a drill to do")
+print ("thanks for doing that drill ")
+print ("")
+print("thanks for doing these drills with us today we will get back to u")
+

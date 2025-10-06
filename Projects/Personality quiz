@@ -20,7 +20,20 @@ elif Answer == "B":
     Lebron_points += 1
 
 Answer = input("Finally do u even like basketball A ) Yes , or B) no")
-if answer == "A":
+if Answer == "A":
     J_points += 1
 elif Answer == "B":
     Lebron_points += 1
+
+Answer + input("if u like jordans better than lebrons A)Yes, or B) dont")
+if Answer == "A":
+    J_points += 1
+elif Answer == "B":
+    Lebron_points += 1
+
+print ("good job answering my questions")
+
+if Lebron_points > J_points:
+    print ("you are a lebron person")
+if J_points > Lebron_points:
+    Print ("you are a j person")

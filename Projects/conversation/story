@@ -6,4 +6,7 @@ drill = input ("chose a drill to do")
 print ("thanks for doing that drill ")
 print ("")
 print("thanks for doing these drills with us today we will get back to u")
-
+print ("hello u have made the team ")
+print ("coach ssays your firsst start will be today r u ready")
+Score = input ("chose a move to get to the basketball")
+print ("amazing you won the game")

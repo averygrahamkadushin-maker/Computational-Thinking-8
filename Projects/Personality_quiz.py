@@ -37,3 +37,6 @@ if Lebron_points > J_points:
     print ("you are a lebron person")
 if J_points > Lebron_points:
     Print ("you are a j person")
+
+
+Print ("thanks for doing this and you are great ")
